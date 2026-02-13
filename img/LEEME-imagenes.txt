@@ -1,0 +1,25 @@
+EMPOWER BEAUTY — Imágenes para la landing
+==========================================
+
+LOGO:
+  logo.png — Logo de EMPOWER BEAUTY (ya incluido)
+
+Exporta las imágenes desde tu diseño de Canva (Descargar → PNG o JPG) y guárdalas en esta carpeta con exactamente estos nombres:
+
+PARA EL HERO (opcional):
+  hero.jpg o hero.png
+  → Si quieres usarla como imagen de fondo del hero, descomenta en index.html la línea que dice:
+    <div class="hero-img" style="background-image: url('img/hero.jpg');"></div>
+
+ORGANIZADORAS (3 fotos):
+  organizadora-thalia.jpg    → Thalía
+  organizadora-angelica.jpg  → Angélica
+  organizadora-annabel.jpg   → Annabel Páez
+
+PONENTES (4 fotos):
+  ponente-migcely.jpg  → Migcely Pabón
+  ponente-pamela.jpg  → Pamela Koney
+  ponente-gabo.jpg    → Gabriel Flores (Gabo)
+  ponente-nereu.jpg   → Nereu Matias
+
+Si falta alguna imagen, se mostrará la inicial del nombre en un recuadro con bordes redondeados. Puedes usar .jpg o .png; si usas .png, cambia la extensión en index.html (por ejemplo img/ponente-migcely.png).
