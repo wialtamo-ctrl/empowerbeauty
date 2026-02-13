@@ -1,0 +1,30 @@
+OPCIONES DE COLOR PARA REEMPLAZAR #F0EAE1
+==========================================
+
+OPCIÓN 1: Beige cálido rosado
+Código: #F5F1ED
+Descripción: Más cálido y suave, complementa perfectamente el dorado #BFA779
+Uso recomendado: Fondos generales, hero, secciones alternas
+Contraste con #211917: Excelente legibilidad
+
+OPCIÓN 2: Beige neutro elegante  
+Código: #F4F2EF
+Descripción: Más neutro y equilibrado, profesional y minimalista
+Uso recomendado: Fondos principales, tarjetas, elementos destacados
+Contraste con #211917: Excelente legibilidad
+
+OPCIÓN 3: Crema suave luminoso
+Código: #F8F5F1
+Descripción: Más claro y luminoso, mantiene el contraste sin opacar
+Uso recomendado: Fondos claros, espacios amplios, hero
+Contraste con #211917: Excelente legibilidad
+
+COMPARACIÓN CON COLOR ACTUAL:
+- Color actual en código: #faf8f5 (--color-bg) y #f5f0eb (--color-bg-hero)
+- Color solicitado: #F0EAE1 (más cálido que los actuales)
+
+¿Dónde quieres aplicar el nuevo color?
+- --color-bg (fondo general)
+- --color-bg-hero (fondo del hero)
+- --color-badge-light (fondos de badges)
+- Otro elemento específico
